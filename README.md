@@ -1,6 +1,6 @@
-= Hello User by Joanne =
+# Hello User by Joanne #
 
-== Welcome to my First C# Demo ==
+## Welcome to my First C# Demo ##
 
 Modified from console template https://aka.ms/new-console-template.
 
